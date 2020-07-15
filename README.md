@@ -16,4 +16,4 @@ Trends Page to represent different Chart for different data
    License-No Licesne-(anyone can use it)
 
 Images of the project
-   ![](images/filename ss.png)
+   ![](images/filename SS.PNG)
