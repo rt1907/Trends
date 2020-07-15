@@ -9,4 +9,8 @@ Trends Page to represent different Chart for different data
    
    Technology Stack-REACTJS based Project
    
+   Dependencies used-
+      1)@material-ui/core
+      2)recharts
+   
    License-No Licesne-(anyone can use it)
